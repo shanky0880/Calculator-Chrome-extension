@@ -1,0 +1,13 @@
+{
+    "name": "Calculator",
+    "description": "A new Flutter project.",
+   "version":"1.0.0",
+    "action":{
+        "default_popup": "index.html",
+        "default_icon": "icons/calculator.png" 
+
+    },
+    "manifest_version": 3
+        
+    
+}
